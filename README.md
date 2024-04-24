@@ -5,7 +5,7 @@ Berikut adalah langkah-langkah untuk menjalankan aplikasi Android Automation men
 1. Clone repositori ini ke dalam sistem lokal Anda dengan menggunakan perintah berikut:
 
     ```bash
-    git clone https://github.com/rayariff/UserGorestAPI.git
+    git clone https://github.com/rayariff/MobileAutomationSwagLabs.git
     ```
 
 2. Pastikan Anda telah menginstal Java dan Android Studio dan mengatur lingkungan (environment) Java dan Android dengan benar di sistem Anda.
